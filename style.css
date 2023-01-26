@@ -1,0 +1,10 @@
+body{ 
+    font-family: Arial;
+    padding: 10px;
+    background: rgb(242, 244, 245);
+}
+
+.header{
+    padding: 20px;
+    text-align: center;
+}
