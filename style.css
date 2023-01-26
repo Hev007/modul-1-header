@@ -7,6 +7,8 @@ body{
 .header{
     padding: 20px;
     text-align: center;
+    background-color: orange;
+    color: white;
 }
 
 .header img{
