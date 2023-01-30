@@ -8,7 +8,7 @@ body{
 .header{
 	padding: 5px;
 	text-align: center;
-	background-color: orange;
+	background-color: blue;
 	color: white;
 }
 
@@ -123,6 +123,29 @@ h2 {
   margin: 0px; 
   margin-bottom: 10px;
 }
+
+.navigasisamping {
+  display: block;
+  float: none;
+  overflow: hidden;
+  background-color: blue;
+}
+
+.navigasisamping a {
+  width: 100%;
+  float: left;
+  font-size: 16px;
+  color: white;
+  padding: 14px 0px;
+  text-decoration: none;
+  background-color: blue;
+}
+
+.navigasisamping a:hover, .dropdown:hover .dropbtn {
+  background-color: lightgrey;
+  color: black;
+}
+
 
 
 
